@@ -1,6 +1,4 @@
-﻿# Credit-Risk-Prediction-Model
-
-Final Task Rakamin Academy ID/X Partners Data Scientist Project Based Internship Program
+﻿# Final Task Rakamin Academy ID/X Partners Data Scientist Project Based Internship Program
 
 Creating credit risk prediction model from loan dataset using machine learning algorithm
 
